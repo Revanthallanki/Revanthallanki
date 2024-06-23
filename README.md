@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Revanth Kumar</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/71/a7/5d/71a75dace5dd09eb98fb0bee98a85876.gif"
+img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthallanki&label=Profile%20views&color=0e75b6&style=flat" alt="revanthallanki" /> </p>
 
