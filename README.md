@@ -1,3 +1,4 @@
+<img align="top" alt= "Data Analyst" height = "200" width="1000" src="https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif">
 <h1 align="center">Hi 👋, I'm Revanth Kumar</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
